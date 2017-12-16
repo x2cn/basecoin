@@ -1,5 +1,4 @@
 *.swp
-vendor
 .vagrant
 merkleeyes.db
 build
